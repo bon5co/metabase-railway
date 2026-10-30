@@ -1,5 +1,9 @@
 # metabase-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/metabase-v063-or-open-source-bi-encrypte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Metabase template](https://railway.com/deploy/metabase-v063-or-open-source-bi-encrypte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned [Metabase](https://www.metabase.com/) image: pinned upstream release,
 `$PORT` honoured, JVM heap sized to the container, and every literal baked in so the
 Railway deploy form stays empty.
